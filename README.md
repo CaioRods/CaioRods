@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOPPER E NOME ANIMADOS VIA API -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=250&section=header&text=Caio%20Rodrigues&fontSize=50&fontColor=ffffff&animation=twinkling&desc=DESENVOLVEDOR%20FULL-STACK%20%E2%80%A2%20ENGENHARIA%20DE%20SOFTWARE&descAlignY=78&descColor=ffffff&descFontSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=250&section=header&text=Caio%20Rodrigues&fontSize=50&fontColor=ffffff&animation=twinkling&desc=DESENVOLVEDOR%20FULL-STACK%20%E2%80%A2%20ENGENHARIA%20DE%20SOFTWARE&descAlignY=65&descColor=ffffff&descFontSize=14" width="100%" />
 
 <br/>
 
