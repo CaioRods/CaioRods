@@ -2,49 +2,43 @@
 
 # Caio Rodrigues
 
-Full-Stack Developer · System Builder · Freelancer
+Full-Stack Developer · Freelancer
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software+that+feels+simple;Full-stack+developer;Freelancer+%7C+Brazil" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-stack+developer;Freelancer;Sistema+e+produtos+digitais" />
 
 </div>
 
 ---
 
-## About
+## 🧾 Sobre
 
-Sou desenvolvedor full-stack e freelancer.
+Desenvolvedor full-stack focado em sistemas reais.
 
-Trabalho construindo sistemas reais, principalmente para operação de negócios — onde software não é projeto, é ferramenta do dia a dia.
-
-Hoje meu foco é evoluir para produtos maiores, com visão de startup e alcance global.
+Trabalho com construção de software para empresas e operação de negócios.
 
 ---
 
-## Work
+## 🧊 Sistemas
 
 ### Controladoria AW
-Sistema principal.
+Sistema principal de controle operacional.
 
-Um controle operacional feito para organização de processos internos e gestão de dados.
-
-Feito para ser usado no dia a dia, não apenas demonstrado.
+Uso real em ambiente de negócio.
 
 ---
 
 ### IDEN 2
-Sistema desenvolvido para Alimentos Wilson.
-
-Voltado para operação interna e fluxo de processos.
+Sistema interno desenvolvido para Alimentos Wilson.
 
 ---
 
-## Stack
+## ⚙️ Stack
 
-JavaScript · TypeScript · Python · Java · Node.js · React · PostgreSQL
+JavaScript · TypeScript · Python · Java · Node.js · React · PostgreSQL · MongoDB
 
 ---
 
-## GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
@@ -54,11 +48,15 @@ JavaScript · TypeScript · Python · Java · Node.js · React · PostgreSQL
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=000000&text_color=ffffff" />
+
 </div>
 
 ---
 
-## Contributions
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -68,13 +66,25 @@ JavaScript · TypeScript · Python · Java · Node.js · React · PostgreSQL
 
 ---
 
-## Philosophy
+## 📈 Atividade
 
-Simplicidade não é estética.  
-É decisão de engenharia.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
-## Contact
+## 🧠 Foco
 
-Freelance · Projects · Collaboration
+Sistemas reais  
+Simplicidade  
+Performance  
+Escalabilidade  
+
+---
+
+## 📬 Contato
+
+Freelancer · Projetos · Parcerias
