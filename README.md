@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Caio%20Rodrigues&fontSize=50&fontColor=bf953f&desc=Desenvolvedor%20Full-Stack%20%7C%20Engenharia%20de%20Software%20&descAlignY=65&descColor=ffffff&descFontSize=16" />
+<h1 style="background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: bold; margin-bottom: 0px;">Caio Rodrigues</h1>
+
+<p style="font-size: 1.2em; color: #8b949e; margin-top: 5px;">Desenvolvedor Full-Stack &bull; Engenharia de Software Aplicada a Negócios</p>
 
 </div>
 
@@ -8,19 +10,19 @@
 
 ## Sobre
 
-Desenvolvedor Full-Stack focado em engenharia de software aplicada a negócios. Especialista na construção de sistemas robustos, automação de processos complexos e arquitetura de soluções que otimizam a operação e escalabilidade de empresas.
+Desenvolvedor Full-Stack focado na criação de sistemas estruturados e otimização de processos corporativos. Especialista em arquitetar soluções robustas que integram tecnologia diretamente à estratégia e à operação de negócios reais.
 
 ---
 
-## Projetos e Sistemas
+## Sistemas e Projetos
 
 ### Controladoria AW
-* **Escopo:** Sistema principal de controle operacional e inteligência financeira.
-* **Impacto:** Em produção ativa, centralizando fluxos de trabalho cruciais e otimizando a tomada de decisões corporativas.
+* **Escopo:** Sistema principal de controle operacional e inteligência de processos.
+* **Impacto:** Em produção ativa, centralizando fluxos de trabalho e fornecendo dados estratégicos para a operação do negócio.
 
 ### IDEN 2
-* **Escopo:** Sistema proprietário desenvolvido sob medida para a Alimentos Wilson.
-* **Foco:** Integração de dados corporativos e eficiência operacional.
+* **Escopo:** Sistema interno proprietário desenvolvido sob medida para a Alimentos Wilson.
+* **Foco:** Centralização de dados, integração de fluxos e eficiência de processos.
 
 ---
 
@@ -37,15 +39,15 @@ Desenvolvedor Full-Stack focado em engenharia de software aplicada a negócios. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaioRods&show_icons=true&hide_border=true&bg_color=050505&title_color=bf953f&text_color=e0e0e0&icon_color=bf953f" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaioRods&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bf953f&text_color=c9d1d9&icon_color=bf953f" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true&background=050505&ring=bf953f&fire=bf953f&currStreakLabel=bf953f&currStreakNum=ffffff&sideLabels=e0e0e0" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true&background=0d1117&ring=bf953f&fire=bf953f&currStreakLabel=bf953f&currStreakNum=ffffff&sideLabels=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=050505&title_color=bf953f&text_color=e0e0e0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=0d1117&title_color=bf953f&text_color=c9d1d9" />
 
 </div>
 
@@ -65,26 +67,26 @@ Desenvolvedor Full-Stack focado em engenharia de software aplicada a negócios. 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=050505&color=bf953f&line=bf953f&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=0d1117&color=bf953f&line=bf953f&point=ffffff&hide_border=true" />
 
 </div>
 
 ---
 
-## Filosofia de Desenvolvimento
+## Diretrizes Práticas
 
-* **Foco em Negócios:** Tecnologia como meio para gerar valor real e eficiência operacional.
-* **Simplicidade Técnica:** Arquiteturas limpas, legíveis e de fácil manutenção.
-* **Performance e Escalabilidade:** Sistemas desenhados para suportar altas demandas sem perda de eficiência.
+* **Sistemas Reais:** Foco absoluto no desenvolvimento de softwares que geram valor prático imediato.
+* **Simplicidade:** Código limpo, componentizado e de fácil manutenção no longo prazo.
+* **Performance:** Arquiteturas otimizadas para garantir escalabilidade e consistência sob demanda.
 
 ---
 
 ## Contato e Parcerias
 
-Disponível para projetos estratégicos, consultorias arquiteturais e desenvolvimento de sistemas de alta complexidade.
+Disponível para o desenvolvimento de sistemas customizados, consultoria técnica e projetos de alta complexidade.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=bf953f&height=45&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=15&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf953f,100:b38728&height=40&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=000000" />
 
 </div>
