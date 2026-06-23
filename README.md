@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=220&section=header&text=Caio%20Rodrigues&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b28728,100:0e0e0e&height=220&section=header&text=Caio%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
@@ -8,44 +8,45 @@
 
 ## ⚡ Sobre
 
-Desenvolvedor Full-Stack focado em engenharia de software aplicada a negócios. Especialista no desenvolvimento de sistemas robustos, automatização de processos e arquitetura de soluções que geram impacto real na operação e escalabilidade de empresas.
+Engenheiro de Software focado em soluções Full-Stack de alto impacto. Especialista na construção de arquiteturas escaláveis, otimização de performance e automação de processos críticos para negócios.
+
+Minha paixão está em transformar requisitos complexos em sistemas operacionais sólidos que geram valor real.
 
 ---
 
-## 🚀 Cases de Sucesso & Sistemas
+## 🚀 Cases de Sucesso
 
 ### **Controladoria AW**
-*   **Escopo:** Sistema core de controle operacional e financeiro.
-*   **Impacto:** Produção ativa em ambiente corporativo real, otimizando fluxos de trabalho e tomadas de decisão.
+*   Sistema principal de controle operacional, financeiro e logístico.
+*   Implementação ativa em ambiente de negócio real, otimizando o fluxo de caixa e a tomada de decisão.
 
 ### **IDEN 2**
-*   **Escopo:** Sistema proprietário de uso interno desenvolvido sob medida para a **Alimentos Wilson**.
-*   **Foco:** Centralização de dados e eficiência operacional.
+*   Plataforma interna proprietária desenvolvida sob medida para a **Alimentos Wilson**.
+*   Integração total de dados para eficiência operacional.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-*   **Languages:** JavaScript (ES6+), TypeScript, Python, Java
-*   **Backend & APIs:** Node.js, Express, Spring Boot
-*   **Frontend:** React.js, Next.js
+*   **Core:** JavaScript (ES6+), TypeScript, Java, Python
+*   **Frameworks & Runtime:** Node.js, React.js, Next.js, Spring Boot
 *   **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas Profissionais
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaioRods&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=bf953f&text_color=ffffff&icon_color=bf953f" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaioRods&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=b28728&text_color=ffffff&icon_color=b28728" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true&background=0f0f0f&ring=bf953f&fire=bf953f&currStreakLabel=bf953f" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true&background=0e0e0e&ring=b28728&fire=b28728&currStreakLabel=b28728" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=bf953f&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=b28728&text_color=ffffff" />
 
 </div>
 
@@ -61,30 +62,30 @@ Desenvolvedor Full-Stack focado em engenharia de software aplicada a negócios. 
 
 ---
 
-## 📈 Atividade
+## 📈 Atividade Recente
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=0f0f0f&color=bf953f&line=bf953f&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=0e0e0e&color=b28728&line=b28728&point=ffffff&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Diretrizes de Desenvolvimento
+## 🎯 Pilares de Desenvolvimento
 
-*   **Sistemas Reais:** Foco no que gera valor para o negócio.
-*   **Simplicidade:** Código limpo, legível e de fácil manutenção.
-*   **Performance & Escalabilidade:** Arquitetura planejada para suportar o crescimento da demanda.
+*   **Sistemas Reais:** Valor do negócio acima de tudo.
+*   **Simplicidade:** Código limpo, sustentável e fácil de manter.
+*   **Escalabilidade:** Arquitetura planejada para o futuro.
 
 ---
 
-## 📬 Contato & Parcerias
+## 📬 Contato
 
-Disponível para projetos estratégicos, consultorias e desenvolvimento de sistemas sob medida.
+Disponível para projetos estratégicos, consultoria e parcerias corporativas.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf953f,100:b38728&height=40&section=footer&text=Vamos%20construir%20algo%20sólido%20juntos.&fontSize=16&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e0e0e,100:b28728&height=50&section=footer&text=Vamos%20construir%20algo%20sólido.&fontSize=18&fontColor=ffffff" />
 
 </div>
