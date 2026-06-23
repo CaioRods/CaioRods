@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOPPER E NOME ANIMADOS VIA API -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=230&section=header&text=Caio%20Rodrigues&fontSize=50&fontColor=000000&animation=twinkling&desc=DESENVOLVEDOR%20FULL-STACK%20%E2%80%A2%20ENGENHARIA%20DE%20SOFTWARE&descAlignY=62&descColor=ffffff&descFontSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=230&section=header&text=Caio%20Rodrigues&fontSize=50&fontColor=ffffff&animation=twinkling&desc=DESENVOLVEDOR%20FULL-STACK%20%E2%80%A2%20ENGENHARIA%20DE%20SOFTWARE&descAlignY=62&descColor=ffffff&descFontSize=14" width="100%" />
 
 <br/>
 
@@ -91,6 +91,6 @@ Minha filosofia de desenvolvimento prioriza interfaces minimalistas, responsivid
 <div align="center">
 
 <!-- FOOTER SE MEXENDO COM ONDA INVERTIDA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,100:b38728&height=120&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=000000&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,100:b38728&height=120&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=ffffff&animation=twinkling" width="100%" />
 
 </div>
