@@ -2,113 +2,79 @@
 
 # Caio Rodrigues
 
-### Building premium software that feels invisible.
+Full-Stack Developer · System Builder · Freelancer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Freelancer;System+Architect;Startup+Builder)
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+software+that+feels+simple;Full-stack+developer;Freelancer+%7C+Brazil" />
 
 </div>
 
 ---
 
-## 🧠 Philosophy
+## About
 
-> Simplicity is not a style. It’s a result of discipline.
+Sou desenvolvedor full-stack e freelancer.
 
----
+Trabalho construindo sistemas reais, principalmente para operação de negócios — onde software não é projeto, é ferramenta do dia a dia.
 
-## 🧊 Flagship Product
-
-### 🥇 Controladoria AW
-Premium business control system
-
-> Built for real operations, not demos.
+Hoje meu foco é evoluir para produtos maiores, com visão de startup e alcance global.
 
 ---
 
-## 🧾 Production System
+## Work
+
+### Controladoria AW
+Sistema principal.
+
+Um controle operacional feito para organização de processos internos e gestão de dados.
+
+Feito para ser usado no dia a dia, não apenas demonstrado.
+
+---
 
 ### IDEN 2
-System built for Alimentos Wilson  
-Real usage. Real business logic.
+Sistema desenvolvido para Alimentos Wilson.
+
+Voltado para operação interna e fluxo de processos.
 
 ---
 
-# ⚙️ Stack
+## Stack
 
-![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-![Node](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js)
+JavaScript · TypeScript · Python · Java · Node.js · React · PostgreSQL
 
 ---
 
-# 📊 GitHub Analytics (Live)
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CaioRods&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioRods&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRods&layout=compact&hide_border=true&bg_color=000000&text_color=ffffff" />
-
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## Contributions
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CaioRods&theme=darkhub&no-frame=true&row=1&column=6)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake (MODO STARTUP)
+## Philosophy
 
-> esse é o “efeito wow” do perfil
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+Simplicidade não é estética.  
+É decisão de engenharia.
 
 ---
 
-# 📈 Activity Graph
+## Contact
 
-<div align="center">
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioRods&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true)
-
-</div>
-
----
-
-# 🧭 Vision
-
-- Build global software products
-- Turn systems into SaaS businesses
-- Focus on product-first engineering
-- Scale beyond Brazil
-
----
-
-# 🤝 Contact
-
-Open to:
-- Freelance work
-- Startup collaboration
-- Product design partnerships
-
----
-
-<div align="center">
-
-### Built like a product. Not a profile.
-
-</div>
+Freelance · Projects · Collaboration
