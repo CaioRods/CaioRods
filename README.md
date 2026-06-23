@@ -1,10 +1,6 @@
 <div align="center">
 
-# Caio Rodrigues
-
-Full-Stack Developer · Freelancer
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-stack+developer;Freelancer;Sistema+e+produtos+digitais" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=220&section=header&text=Caio%20Rodrigues&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
