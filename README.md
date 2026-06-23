@@ -1,13 +1,38 @@
 <div align="center">
 
-<!-- HEADER ANIMADO (EFEITO ONDA EM MOVIMENTO) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=160&section=header&animation=twinkling" width="100%" />
+<!-- TOPPER ANIMADO (ONDA EM MOVIMENTO) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=150&section=header&animation=twinkling" width="100%" />
 
-<br/>
+<!-- ESTILIZAÇÃO E ANIMAÇÃO DO NOME/SUBTÍTULO -->
+<style>
+  @keyframes pulse {
+    0% { opacity: 0.85; transform: scale(0.99); }
+    50% { opacity: 1; transform: scale(1); filter: drop-shadow(0 0 15px rgba(252, 246, 186, 0.4)); }
+    100% { opacity: 0.85; transform: scale(0.99); }
+  }
+  .animated-title {
+    animation: pulse 4s ease-in-out infinite;
+    background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3.8em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    display: inline-block;
+  }
+  .animated-subtitle {
+    animation: pulse 4s ease-in-out infinite;
+    font-size: 1.25em;
+    color: #8b949e;
+    margin-top: 8px;
+    letter-spacing: 2px;
+    font-weight: 500;
+  }
+</style>
 
-<h1 style="background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: bold; margin-bottom: 0px; margin-top: 10px;">Caio Rodrigues</h1>
-
-<p style="font-size: 1.25em; color: #8b949e; margin-top: 5px; letter-spacing: 1px;">DESENVOLVEDOR FULL-STACK &bull; ENGENHARIA DE SOFTWARE APLICADA A NEGÓCIOS</p>
+<h1 class="animated-title">Caio Rodrigues</h1>
+<p class="animated-subtitle">DESENVOLVEDOR FULL-STACK &bull; ENGENHARIA DE SOFTWARE APLICADA A NEGÓCIOS</p>
 
 ---
 
@@ -97,7 +122,7 @@ Disponível para o desenvolvimento de sistemas customizados, consultoria técnic
 
 <div align="center">
 
-<!-- FOOTER ANIMADO (CURVA DINÂMICA INVERTIDA) -->
-<img src="https://capsule-render.vercel.app/api?type=bami&color=0:bf953f,100:b38728&height=80&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=000000&animation=fadeIn" width="100%" />
+<!-- FOOTER CORRIGIDO E ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,100:b38728&height=120&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=15&fontColor=000000&animation=twinkling" width="100%" />
 
 </div>
