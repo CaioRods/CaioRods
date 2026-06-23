@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf953f,100:b38728&height=40&section=header" width="100%" />
+<!-- HEADER ANIMADO (EFEITO ONDA EM MOVIMENTO) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf953f,50:fcf6ba,100:b38728&height=160&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
-<h1 style="background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: bold; margin-bottom: 0px; margin-top: 20px;">Caio Rodrigues</h1>
+<h1 style="background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5em; font-weight: bold; margin-bottom: 0px; margin-top: 10px;">Caio Rodrigues</h1>
 
 <p style="font-size: 1.25em; color: #8b949e; margin-top: 5px; letter-spacing: 1px;">DESENVOLVEDOR FULL-STACK &bull; ENGENHARIA DE SOFTWARE APLICADA A NEGÓCIOS</p>
 
@@ -96,6 +97,7 @@ Disponível para o desenvolvimento de sistemas customizados, consultoria técnic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf953f,100:b38728&height=45&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=000000" width="100%" />
+<!-- FOOTER ANIMADO (CURVA DINÂMICA INVERTIDA) -->
+<img src="https://capsule-render.vercel.app/api?type=bami&color=0:bf953f,100:b38728&height=80&section=footer&text=Engenharia%20de%20Software%20Focada%20em%20Resultados&fontSize=14&fontColor=000000&animation=fadeIn" width="100%" />
 
 </div>
